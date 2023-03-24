@@ -51,14 +51,6 @@
 > | 2       | 2          | 2          | 2022-03-02  |
 > | 3       | 3          | 3          | 2022-03-03  |
 
-> ### **Tabla Ventas**
->
-> | IDventa | idsucursal | idvendedor | fecha_venta |
-> |---------|------------|------------|-------------|
-> | 1       | 1          | 1          | 2022-03-01  |
-> | 2       | 2          | 2          | 2022-03-02  |
-> | 3       | 3          | 3          | 2022-03-03  |
-
 > ### **Tabla DetallesVenta**
 >
 > | idventa | idproducto | cantidad | total   |
